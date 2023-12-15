@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Japan</string>
+    <string name="hiraganaView">Hiragana</string>
+    <string name="katakanaView">Katakana</string>
+    <string name="hiraganaBtn">Hiragana</string>
+    <string name="katakanaBtn">Katakana</string>
+</resources>
